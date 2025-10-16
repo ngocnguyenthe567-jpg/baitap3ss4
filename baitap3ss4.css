@@ -1,4 +1,3 @@
-/* reset css mặc định */
 * {
   margin: 0;
   padding: 0;
@@ -16,4 +15,5 @@ button {
   background-color: green;
   color: white;
   border-radius: 4px; /* bo tròn 4 góc */
+
 }
